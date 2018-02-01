@@ -45,23 +45,23 @@ mvnw package
 
 ```
 
-packaged jar will be in target/demo-0.0.1-SNAPSHOT.jar
-
 execute it by using command: 
 
 ```
-java -jar demo-0.0.1-SNAPSHOT.jar
+java -jar target/demo-0.0.1-SNAPSHOT.jar
 
 ```
 
-Access program using url: localhost:8888/data
+Running app will be available accessing url:
+
+```
+localhost:8888/data
+```
 
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Authors
 
