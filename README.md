@@ -66,8 +66,3 @@ localhost:8888/data
 ## Authors
 
 * **Fred Martmaa**
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
