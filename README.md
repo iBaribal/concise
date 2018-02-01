@@ -4,7 +4,7 @@ Required task for Concise.
 
 ### Installing
 
-Install docker by going to URL: 
+Install docker by going to URL: https://www.docker.com/
 
 Install postgres:9.6 image using docker console by command
 
